@@ -16,8 +16,9 @@ To navigate through this challenge effectively, follow these steps:
 
 Open the ERD.png file to gain insights into the relationships between entities and their attributes.
 
-Utilize the schema.sql file to create the necessary tables and define the data structure.
+Utilize the schema.sql file to create the necessary tables and define the data structure. 
 
 Import the provided data files.
+IMPORT IN THE FOLLOWING ORDER: departments, dept_emp, titles, employees, dept_manager, salaries
 
 Execute the analysis queries specified in the queries.sql file to complete the challenge successfully.
