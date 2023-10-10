@@ -7,7 +7,7 @@ The original data is available in the EmployeeSQL folder.
 
 An Entity-Relationship Diagram (ERD) image, exported from Quick DBD.
 
-A schema.sql file for table creation and data structure definition.
+A schema.sql file for table creation.
 
 The queries.sql file for executing the analysis queries required for the challenge.
 
