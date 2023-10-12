@@ -3,7 +3,7 @@ Within this directory, you will discover the solutions to the SQL challenge pres
 
 ## Contained within are the following components:
 
-The original data is available in the EmployeeSQL folder.
+The original data is available in the 'data' folder.
 
 An Entity-Relationship Diagram (ERD) image, exported from Quick DBD.
 
